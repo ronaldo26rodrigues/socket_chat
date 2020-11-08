@@ -1,2 +1,2 @@
 # socket_chat
-es
+este é um aplicativo simples de chat usando a tecnologia websocket em python
