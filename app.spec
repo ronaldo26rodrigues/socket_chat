@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['app.py'],
-             pathex=['C:\\Users\\PMRecife\\PycharmProjects\\projeto_de_redes'],
+             pathex=['C:\\Users\\PMRecife\\PycharmProjects\\projeto_de_redes\\socket_chat'],
              binaries=[],
              datas=[],
              hiddenimports=[],
